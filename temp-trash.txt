@@ -1,0 +1,2 @@
+// ensure that new files are vetted correctly
+// trying to add now
