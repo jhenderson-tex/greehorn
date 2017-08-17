@@ -9,7 +9,7 @@ public class Main {
         // additional log-in has to be performed in order to see the
         // changes ON github itself.  Changes were rejected on the first
         // try--- let me try again . Ok, here are more changes. Here is
-        // another-- one more than one change
+        // another--change
 
         System.out.print("Howdy Mundo");
         //added the howdy part        and changed my email address but
