@@ -1,7 +1,6 @@
-package org.toomanyindians;
+package com.testing.ideas;
 
 public class Main {
-
     public static void main(String[] args) {
         // write your code here
         //added to GITHUB, but incorrectly the first time. Appears that
@@ -12,7 +11,8 @@ public class Main {
         // another--change
 
         System.out.print("Howdy Mundo");
-        //added the howdy part        and changed my email address but
+        //added the howdy part
+        // and changed my email address but
         // changing email address didn't account for the all the changes
         // and my pushes won't work so I logged out again-- and again .
         // so this changed. :) sd seg
