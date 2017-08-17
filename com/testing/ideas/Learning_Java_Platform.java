@@ -2,7 +2,7 @@ package com.testing.ideas;
 
 import java.lang.System;
 
-class BeginningProject {
+public class BeginningProject {
     public static void main(String[] args) {
         startMeUp();
     }
