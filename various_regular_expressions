@@ -67,7 +67,6 @@ dealing with nested quotes
 
 THIS SHOULD WORK FOR A CSV:   //since the csv file has "" (doubled quotes) around quoted things.
 
-
 "([^"]|"")*"
 
 so:::: var doubleQuoteNabRE=/"([^"]|"")*"/g;
