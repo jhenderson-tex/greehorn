@@ -1,2 +1,0 @@
-// ensure that new files are vetted correctly
-// added successfully, now editing from a separate place
